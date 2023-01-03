@@ -3,6 +3,6 @@ Git is free software under the GPL.
 Git has a mutable index called stage.
 Git tracks changes again.
 
-Creating a new branch is quick.
+Creating a new branch is quick AND simple.
 ----
 Today is 01.03.2023!
